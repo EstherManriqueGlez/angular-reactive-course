@@ -1,0 +1,24 @@
+.course-card {
+  margin: 20px 10px;
+}
+
+.course-actions {
+  display: flex;
+  justify-content: center;
+}
+
+.course-actions button {
+  display: flex;
+  justify-content: center;
+  margin-right: 5px;
+}
+
+.course-actions button:first-child {
+  background-color: #d10f4a;
+  color: white;
+}
+
+.course-actions button:last-child {
+  background-color: #3c35dd;
+  color: white;
+}
